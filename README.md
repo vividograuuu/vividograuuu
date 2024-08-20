@@ -3,8 +3,8 @@
 Meu nome é Samylly Vitória
 
  
-- Estou estudando na alura
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou estudando na [Alura](https:\\www.alura.co.br)
+- Estou me desenvolvendo na linguagem JavaScript 
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projeto desenvolvidos
 
  ### Você entrar em contato comigo 📫
